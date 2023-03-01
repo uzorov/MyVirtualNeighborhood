@@ -16,7 +16,11 @@ Kirill Mikhienkov
 
 ![Screenshot_1](https://user-images.githubusercontent.com/90005421/222138447-b5fb8339-9084-4b5c-8e1f-2bced01f0808.png)
 ### Дом 17
+Пятиэтажный дом  
 
+Шесть подъездов 
+
+![image](https://user-images.githubusercontent.com/90005421/222141436-92f66824-e02c-4475-b8c7-29cc8b5211ef.png)
 
 ### Дом 16
 Пятиэтажный дом  
@@ -26,11 +30,7 @@ Kirill Mikhienkov
 ![image](https://user-images.githubusercontent.com/90005421/222141666-bd7e03e6-19d7-49f8-93d1-3de9ca545088.png)
 
 
-Пятиэтажный дом  
 
-Шесть подъездов 
-
-![image](https://user-images.githubusercontent.com/90005421/222141436-92f66824-e02c-4475-b8c7-29cc8b5211ef.png)
 
 
 ### Дом 14
